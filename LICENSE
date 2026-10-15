@@ -1,0 +1,43 @@
+# PROCEDA Agent — Licença Proprietária para Auditoria
+
+Copyright (c) 2026 Gabriel dos Anjos. Todos os direitos reservados.
+
+## 1. Finalidade
+
+O código-fonte do PROCEDA Agent é disponibilizado publicamente para fins de transparência, inspeção técnica e auditoria de segurança.
+
+Esta disponibilização não constitui uma licença de software livre ou de código aberto.
+
+## 2. Permissões
+
+É permitida a visualização e a obtenção de cópias do código-fonte para estudo, inspeção e auditoria interna, incluindo a análise das comunicações externas, dos mecanismos de licenciamento e do tratamento de informações.
+
+São preservadas as permissões concedidas pelos Termos de Serviço da plataforma de hospedagem.
+
+## 3. Restrições
+
+Salvo autorização expressa do titular dos direitos ou disposição legal aplicável, esta licença não autoriza:
+
+- Modificar o software ou distribuir versões modificadas.
+- Redistribuir o software fora das permissões expressamente concedidas.
+- Sublicenciar, vender ou comercializar o software.
+- Incorporar o software a produtos ou serviços de terceiros.
+- Utilizar o software operacionalmente sem a autorização comercial aplicável.
+
+## 4. Uso comercial
+
+O uso operacional do PROCEDA Agent em conjunto com o PROCEDA Writer está sujeito aos termos contratuais e comerciais aplicáveis.
+
+Esta licença não concede quaisquer direitos sobre o PROCEDA Writer, o PROCEDA Runtime ou o PROCEDA License Server.
+
+## 5. Ausência de garantias
+
+O código-fonte é disponibilizado para inspeção no estado em que se encontra, sem garantias expressas ou implícitas, na máxima extensão permitida pela legislação aplicável.
+
+## 6. Componentes de terceiros
+
+Os componentes e dependências de terceiros permanecem sujeitos às suas respectivas licenças.
+
+## 7. Reserva de direitos
+
+Todos os direitos não expressamente concedidos permanecem reservados ao respectivo titular.
